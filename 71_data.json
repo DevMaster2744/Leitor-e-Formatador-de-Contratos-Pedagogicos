@@ -1,0 +1,136 @@
+{
+    "tabela": [
+        {
+            "Data": "ERRO",
+            "Nome": "AULA DADA /\nAULA\nESTUDADA\nIII. OBSERVA\u00c7\u00d5ES\nO contrato pedag\u00f3gico \u00e9 um cronograma das avalia\u00e7\u00f5es combinadas com os alunos, pass\u00edvel de altera\u00e7\u00f5es.\nSe ocorrerem modifica\u00e7\u00f5es, os alunos ser\u00e3o comunicados previamente.\n",
+            "Valor": "1",
+            "Mat\u00e9ria": "Matem\u00e1tica"
+        },
+        {
+            "Data": "LONGO",
+            "Nome": "VOLEIBOL\n",
+            "Valor": "3,0",
+            "Mat\u00e9ria": "Ed. F\u00edsica"
+        },
+        {
+            "Data": "08/03",
+            "Nome": "A deriva continental e a tect\u00f4nica de placas",
+            "Valor": "3",
+            "Mat\u00e9ria": "Ci\u00eancias"
+        },
+        {
+            "Data": "18/03",
+            "Nome": "1-TRABALHO\nINDIVIDUAL\n(COM\nCONSULTA)\n",
+            "Valor": "3",
+            "Mat\u00e9ria": "Matem\u00e1tica"
+        },
+        {
+            "Data": "20/03",
+            "Nome": "Entrega do trabalho de filosofia sobre a compreens\u00e3o e\ninterpreta\u00e7\u00e3o da arte nas p\u00e1ginas 12 e 13 do livro 1 de\nfilosofia.\n",
+            "Valor": "5",
+            "Mat\u00e9ria": "Filosofia"
+        },
+        {
+            "Data": "21/03",
+            "Nome": "Fazer uma entrevista com um familiar seguindo o roteiro\nque ser\u00e1 proposto. Trabalho referente a tarefa 5 \u201cEm\nCasa\u201d do livro 1 de geografia da p\u00e1gina 264 ex. 5 e 6.\nEntrega de trabalho sobre a expectativa de vida dentro\n",
+            "Valor": "2",
+            "Mat\u00e9ria": "Geografia"
+        },
+        {
+            "Data": "26/03",
+            "Nome": "TESTE \u2013 Compreens\u00e3o textual, Verbo p.23, p.24.\nAdjetivo p.27.\n",
+            "Valor": "1,0",
+            "Mat\u00e9ria": "Portugu\u00eas"
+        },
+        {
+            "Data": "01/04",
+            "Nome": "PARADA DA ESCRITA - Poema x poesia,\nestrutura do poema, compreens\u00e3o de poema e\nprodu\u00e7\u00e3o de poema.\n",
+            "Valor": "2,0",
+            "Mat\u00e9ria": "Reda\u00e7\u00e3o"
+        },
+        {
+            "Data": "05/04",
+            "Nome": "TRABALHO \u2013 Os alunos ir\u00e3o fazer gamifica\u00e7\u00e3o\nsobre os conte\u00fados abordados em aula.\n",
+            "Valor": "1,0",
+            "Mat\u00e9ria": "Portugu\u00eas"
+        },
+        {
+            "Data": "05/04",
+            "Nome": "Energia t\u00e9rmica, calor e temperatura\\nPropaga\u00e7\u00e3o de calor e sensa\u00e7\u00e3o t\u00e9rmica",
+            "Valor": "4",
+            "Mat\u00e9ria": "Ci\u00eancias"
+        },
+        {
+            "Data": "08/04",
+            "Nome": "2-TRABALHO\nEM DUPLA\n(SORTEIO)\n",
+            "Valor": "3",
+            "Mat\u00e9ria": "Matem\u00e1tica"
+        },
+        {
+            "Data": "10/04",
+            "Nome": "AVALIA\u00c7\u00c3O DE CORRIDA\n",
+            "Valor": "3,0",
+            "Mat\u00e9ria": "Ed. F\u00edsica"
+        },
+        {
+            "Data": "11/04",
+            "Nome": "de sua fam\u00edlia. Fazer uma entrevista com um familiar\nseguindo o roteiro que ser\u00e1 proposto. Trabalho\nreferente a tarefa 4 do livro 1 de geografia da p\u00e1gina\n273.\nProva de conte\u00fados do 1o bimestre de geografia\n",
+            "Valor": "5",
+            "Mat\u00e9ria": "Geografia"
+        },
+        {
+            "Data": "17/04",
+            "Nome": "Entrega de trabalho de filosofia sobre an\u00e1lise e pesquisa\nsobre as cores e os deuses africanos das p\u00e1ginas 29 e 30\ndo livro 1 de filosofia.\n",
+            "Valor": "5",
+            "Mat\u00e9ria": "Filosofia"
+        },
+        {
+            "Data": "19/04",
+            "Nome": "LIVRO \u2013 Escolher\u00e1 um livro, por\u00e9m esse livro n\u00e3o\npode ter filme, s\u00e9rie ou document\u00e1rio.\nA avalia\u00e7\u00e3o ter\u00e1 dois momentos: apresenta\u00e7\u00e3o\npara turma e cria\u00e7\u00e3o de um poema sobre o livro\nlido.\n",
+            "Valor": "1,0",
+            "Mat\u00e9ria": "Reda\u00e7\u00e3o"
+        },
+        {
+            "Data": "19/04",
+            "Nome": "M\u00e1quinas simples e suas aplica\u00e7\u00f5es\\nM\u00e1quinas t\u00e9rmicas e frigor\u00edficas",
+            "Valor": "3",
+            "Mat\u00e9ria": "Ci\u00eancias"
+        },
+        {
+            "Data": "23/04",
+            "Nome": "PROVA BIMESTRAL \u2013 Compreens\u00e3o textual,\nVerbo p.23 e 24. Estrutura da ora\u00e7\u00e3o: Sujeito e\npredicado p.58. Complemento verbal p.60. Tipos\nde Sujeito p.62. Pronomes p.98. Transitividade\nverbal p.125.\n",
+            "Valor": "2,0",
+            "Mat\u00e9ria": "Portugu\u00eas"
+        },
+        {
+            "Data": "24/04",
+            "Nome": "GIN\u00c1STICA\n",
+            "Valor": "2,0",
+            "Mat\u00e9ria": "Ed. F\u00edsica"
+        },
+        {
+            "Data": "25/04",
+            "Nome": "PROVA \u2013 Poema x poesia, estrutura do poema e\ncompreens\u00e3o de poema.\n",
+            "Valor": "3,0",
+            "Mat\u00e9ria": "Reda\u00e7\u00e3o"
+        },
+        {
+            "Data": "25/04",
+            "Nome": "Conte\u00fados:\n. Popula\u00e7\u00e3o do mundo e do Brasil\n. Expectativa de vida\n. Constitui\u00e7\u00e3o do Brasil\n. Diversidade \u00e9tnico-cultural\n",
+            "Valor": "3",
+            "Mat\u00e9ria": "Geografia"
+        },
+        {
+            "Data": "26/04",
+            "Nome": "TRABALHO DO LIVRO: Os alunos ler\u00e3o para este\nbimestre o livro \u2013 SETE DESAFIOS PARA SER\nREI.\nO aluno tem a op\u00e7\u00e3o de compr\u00e1-lo pelo e\ncommerce, livraria ou PDF.\nPor\u00e9m no dia do trabalho o aluno poder\u00e1 usar\nlivro f\u00edsico, ou Kindle.\nO trabalho constar\u00e1 em compreens\u00e3o textual e\nprodu\u00e7\u00e3o textual, bem como atividade em grupo.\n",
+            "Valor": "2,0",
+            "Mat\u00e9ria": "Portugu\u00eas"
+        },
+        {
+            "Data": "29/04",
+            "Nome": "3- PROVA\nINDIVIDUAL\n(SEM\nCONSULTA)\n",
+            "Valor": "3",
+            "Mat\u00e9ria": "Matem\u00e1tica"
+        }
+    ]
+}
